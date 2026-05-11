@@ -23,7 +23,7 @@
 | Web Scraper | Coming Week 4 | - |
 
 ## 💻 LeetCode Progress
-- Easy: 0/56
+- Easy: 2/56
 - Medium: 0/60
 - Hard: 0/10
 
