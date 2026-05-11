@@ -24,6 +24,8 @@
 
 ## 💻 LeetCode Progress
 - Easy: 2/56
+  - #1929 Concatenation of Array
+  - #2798 Employees Met Target
 - Medium: 0/60
 - Hard: 0/10
 
